@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoennPluginHelper", "LoennPluginHelper.csproj", "{E578B695-7F54-457C-81E2-190A3CE1FF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E578B695-7F54-457C-81E2-190A3CE1FF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E578B695-7F54-457C-81E2-190A3CE1FF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E578B695-7F54-457C-81E2-190A3CE1FF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E578B695-7F54-457C-81E2-190A3CE1FF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DD74A3-1F08-49E5-BD17-2BC7A7C10A77}
+	EndGlobalSection
+EndGlobal
